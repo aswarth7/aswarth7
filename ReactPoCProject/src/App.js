@@ -6,7 +6,7 @@ function App() {
       id: 'e1',
       title: 'Insurance',
       amount: 100,
-      date: new Date(2021, 2,01),
+      date: new Date(2021, 2, 1),
     },
     {
       id: 'e2',
