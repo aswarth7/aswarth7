@@ -6,25 +6,25 @@ function App() {
       id: 'e1',
       title: 'Insurance',
       amount: 100,
-      date: new Date(2021, 2, 01),
+      date: new Date(2021, 2,01),
     },
     {
       id: 'e2',
       title: 'Appliances',
       amount: 200,
-      date: new Date(2021, 3, 01),
+      date: new Date(2021, 3, 1),
     },
     {
       id: 'e3',
       title: 'Travel',
       amount: 300,
-      date: new Date(2021, 4, 01),
+      date: new Date(2021, 4, 1),
     },
     {
       id: 'e4',
       title: 'Grocery',
       amount: 400,
-      date: new Date(2021, 5, 01),
+      date: new Date(2021, 5, 1),
     },
   ];
   return (
